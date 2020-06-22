@@ -1,0 +1,23 @@
+{
+    "name": "highlightjs-mcfunction",
+    "version": "1.0.0",
+    "description": "Highlight.js grammar for MCFunction",
+    "main": "src/mcfunction.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheFireBlast/highlightjs-mcfunction.git"
+    },
+    "keywords": [
+        "minecraft",
+        "mcfunction",
+        "hljs",
+        "highlightjs",
+        "highlight.js"
+    ],
+    "author": "FireBlast",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/TheFireBlast/highlightjs-mcfunction/issues"
+    },
+    "homepage": "https://github.com/TheFireBlast/highlightjs-mcfunction#readme"
+}
